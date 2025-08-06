@@ -1,4 +1,4 @@
-This project features a cute animated penguin built with HTML and CSS. It's a fun and creative way to practice positioning, shapes, and basic animation using pure code—no images involved!
+This project features a cute animated penguin built with HTML and CSS. It's a fun and creative way to practice positioning, shapes, and basic animation using pure code—no images involved
 
 📄 Project Description
 The Penguin project includes:
@@ -29,4 +29,4 @@ Basic animation techniques (if added)
 
 🚀 Live Preview
 👉 Click here to view Penguin
-(Replace yourusername with your actual GitHub username
+https://adeife25.github.io/penguin/
